@@ -21,7 +21,7 @@ This Java App gets my repositories via github api and deserializes in a POJO/Arr
 
 ![image](https://user-images.githubusercontent.com/24380007/230792010-cff5bd7b-b8e2-4537-96b4-26a15e7d9e2f.png)
 
-- ## I can do what a want with the data mapped by my Repos Object reference.
+- ## I can do what I want with the data mapped by my Repos Object reference.
 
 # Reference:
 
